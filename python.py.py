@@ -1,1 +1,2 @@
 print("diet")
+print("pandu")
